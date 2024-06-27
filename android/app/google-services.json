@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737126990757",
+    "project_id": "my-goal-mate",
+    "storage_bucket": "my-goal-mate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737126990757:android:dc13a9d339b6ef18421e4c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2pXu2x3QS4rLxxIBjhuyyidQrUDrLG40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
